@@ -13,8 +13,8 @@ The CARD14 gene consists of 23 exons, of which 20 are protein-coding exons. This
 ### Observations (Jupyter Notebook)
 1. Principal Component Analysis (PCA): No significant clusters were observed in the PCA plot, and no statistical analysis was conducted on this plot.
 2. Alternate Allele Frequency Analysis:
- - No statistically significant differences were found in the overall comparison between high- and low-prevalence regions.
- - No statistically significant differences were observed in alternate allele frequency per exon.
+  - No statistically significant differences were found in the overall comparison between high- and low-prevalence regions.
+  - No statistically significant differences were observed in alternate allele frequency per exon.
 
 [1]	R. Parisi, I. Y. K. Iskandar, E. Kontopantelis, M. Augustin, C. E. M. Griffiths, and D. M. Ashcroft, ‘National, regional, and worldwide epidemiology of psoriasis: systematic analysis and modelling study’, BMJ, vol. 369, p. m1590, May 2020, doi: 10.1136/bmj.m1590.
 [2]	E. Christophers, ‘Psoriasis--epidemiology and clinical spectrum’, Clin Exp Dermatol, vol. 26, no. 4, pp. 314–320, Jun. 2001, doi: 10.1046/j.1365-2230.2001.00832.x.
