@@ -1,0 +1,7 @@
+## Links with to the retrived data
+# Where all the data was pulled from
+https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/
+# Where the CARD14 coordenates where retrived
+https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?db=core;g=ENSG00000141527;r=17:78143791-78183130
+# Where the exon data was retrived from
+https://grch37.ensembl.org/Homo_sapiens/Transcript/Summary?db=core;g=ENSG00000141527;r=17:78143791-78183130;t=ENST00000573882
